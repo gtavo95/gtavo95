@@ -7,13 +7,14 @@ I'm a Mechatronic Engineer and software developer with a passion for createing n
 - Python
 - JavaScript / Typescript
 - GO
-- HTML/CSS
+- HTML/CSS + Tailwindcss
 
 ### Front End Frameworks:
-- svelte
-- astro
+- Svelte
+- Astro
 - React
 - Angular
+- NextJs
 
 ### Back End Frameworks:
 - Django
@@ -23,6 +24,12 @@ I'm a Mechatronic Engineer and software developer with a passion for createing n
 - Fiber
 - Express
 - Koa
+- Apollo graphql
+
+### Database
+- Postgresql
+- MongoDB
+- SQL Server
 
 ### Tools:
 - Git
@@ -30,6 +37,7 @@ I'm a Mechatronic Engineer and software developer with a passion for createing n
 - Kubernetes
 - Bazel
 - Turborepo
+- Kafka
 
 ### Cloud
 - AWS
@@ -39,6 +47,11 @@ I'm a Mechatronic Engineer and software developer with a passion for createing n
 ### Hosting
 - Vercel
 - Cloudfare
+
+### Payment Gateway
+- Stripe
+- NMI
+- Nexio
 
 ## 📊 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=gtavo95&show_icons=true&theme=tokyonight)
