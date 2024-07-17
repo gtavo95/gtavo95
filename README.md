@@ -53,9 +53,6 @@ I'm a Mechatronic Engineer and software developer with a passion for createing n
 - NMI
 - Nexio
 
-## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=gtavo95&show_icons=true&theme=tokyonight)
-
 ## 📜 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - https://dev.to/gustavo_gordillo_aec0b580/sql-server-mongodb-sync-kafka-kubernetes-debezium-1alc
