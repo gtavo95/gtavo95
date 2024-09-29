@@ -1,22 +1,23 @@
 # 👋 Hello, I'm Gustavo!
 
-I'm a **Mechatronic Engineer** and **Software Developer** passionate about **building and innovating**. I thrive on learning new technologies and constantly improving my skills to deliver cutting-edge solutions. I’m proficient in **RESTful APIs**, **WebSockets**, and **GraphQL**.
+I'm a **Mechatronic Engineer** and **Fullstack Software Developer** passionate about **building and innovating**. I thrive on learning new technologies and constantly improving my skills to deliver cutting-edge solutions. I’m proficient in **RESTful APIs**, **WebSockets**, and **GraphQL**.
 
 ---
 
 ## 💻 Tech Stack:
 **Languages**: Python 🐍 | JavaScript/TypeScript 🌟 | Go 🦦 | Elixir ⚡ | HTML/CSS + TailwindCSS 🎨  
 **Frontend**: Svelte 🚀 | Astro 🪐 | React ⚛️ | Angular 🌉 | Next.js ⏭️  
-**Backend**: Django 🧑‍💻 | Flask 🔥 | FastAPI ⚡ | Gin 🍸 | Fiber 💡 | Express 🚂 | Koa 🌊 | Phoenix 🦄 | Apollo GraphQL 🌐  
+**Backend**: Django 🧑‍💻 | Flask 🔥 | FastAPI ⚡ | Fastify 🚀 | Gin 🍸 | Fiber 💡 | Express 🚂 | Koa 🌊 | Phoenix 🦄 | Apollo GraphQL 🌐  
 **Databases**: PostgreSQL 🐘 | MongoDB 🍃 | SQL Server 💾
 
 ---
 
 ## 🛠️ Tools & Cloud:
-**DevOps**: Git 🧑‍🚀 | Docker 🐳 | Kubernetes ☸️ | Bazel 🏗️ | Turborepo ⚙️ | Kafka 📨 | Neovim (nvim) 🔮  
+**DevOps**: Git 🧑‍🚀 | Docker 🐳 | Kubernetes ☸️ | Bazel 🏗️ | Turborepo ⚙️ | Kafka 📨 | RabbitMQ 🐇 | Neovim (nvim) 🔮  
 **Cloud**: AWS ☁️ | IBM Cloud 🛠️ | Google Cloud 🚀  
 **Hosting**: Vercel ⛅ | Cloudflare 🌐  
-**Payments**: Stripe 💳 | NMI 💵 | Nexio 💼
+**Payments**: Stripe 💳 | NMI 💵 | Nexio 💼  
+**Others**: SSO Applications 🔐 | OAuth 🔑 | OIDC 🔒
 
 ---
 
