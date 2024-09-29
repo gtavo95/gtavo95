@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Gustavo!
 
-I'm a **Mechatronic Engineer** and **Fullstack Software Developer** passionate about **building and innovating**. I thrive on learning new technologies and constantly improving my skills to deliver cutting-edge solutions. I’m proficient in **RESTful APIs**, **WebSockets**, and **GraphQL**.
+I'm a **Mechatronic Engineer** and **Fullstack Software Developer** passionate about **building and innovating**. I thrive on learning new technologies and constantly improving my skills to deliver cutting-edge solutions. I’m proficient in **RESTful APIs**, **WebSockets**, **GraphQL**, and **UI/UX design with Figma**.
 
 ---
 
@@ -17,7 +17,8 @@ I'm a **Mechatronic Engineer** and **Fullstack Software Developer** passionate a
 **Cloud**: AWS ☁️ | IBM Cloud 🛠️ | Google Cloud 🚀  
 **Hosting**: Vercel ⛅ | Cloudflare 🌐  
 **Payments**: Stripe 💳 | NMI 💵 | Nexio 💼  
-**Others**: SSO Applications 🔐 | OAuth 🔑 | OIDC 🔒
+**Others**: SSO Applications 🔐 | OAuth 🔑 | OIDC 🔒  
+**Design**: Figma 🎨
 
 ---
 
