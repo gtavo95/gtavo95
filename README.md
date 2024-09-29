@@ -1,61 +1,30 @@
-# Hello, I'm Gustavo! 👋
+# 👋 Hello, I'm Gustavo!
 
-## 🚀 About Me
-I'm a Mechatronic Engineer and software developer with a passion for createing new things!. I love to create and innovate, and I'm constantly learning new technologies to improve my skills.
-
-### Languages:
-- Python
-- JavaScript / Typescript
-- GO
-- HTML/CSS + Tailwindcss
-
-### Front End Frameworks:
-- Svelte
-- Astro
-- React
-- Angular
-- NextJs
-
-### Back End Frameworks:
-- Django
-- Flask
-- Fastapi
-- Gin
-- Fiber
-- Express
-- Koa
-- Apollo graphql
-
-### Database
-- Postgresql
-- MongoDB
-- SQL Server
-
-### Tools:
-- Git
-- Docker
-- Kubernetes
-- Bazel
-- Turborepo
-- Kafka
-
-### Cloud
-- AWS
-- IBM Cloud
-- Google Cloud
-
-### Hosting
-- Vercel
-- Cloudfare
-
-### Payment Gateway
-- Stripe
-- NMI
-- Nexio
-
-## 📜 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- https://dev.to/gustavo_gordillo_aec0b580/sql-server-mongodb-sync-kafka-kubernetes-debezium-1alc
+I'm a **Mechatronic Engineer** and **Software Developer** passionate about **building and innovating**. I thrive on learning new technologies and constantly improving my skills to deliver cutting-edge solutions. I’m proficient in **RESTful APIs**, **WebSockets**, and **GraphQL**.
 
 ---
-Feel free to fork and tweak this README to suit your own profile. Let's connect and collaborate on interesting projects!
+
+## 💻 Tech Stack:
+**Languages**: Python 🐍 | JavaScript/TypeScript 🌟 | Go 🦦 | Elixir ⚡ | HTML/CSS + TailwindCSS 🎨  
+**Frontend**: Svelte 🚀 | Astro 🪐 | React ⚛️ | Angular 🌉 | Next.js ⏭️  
+**Backend**: Django 🧑‍💻 | Flask 🔥 | FastAPI ⚡ | Gin 🍸 | Fiber 💡 | Express 🚂 | Koa 🌊 | Phoenix 🦄 | Apollo GraphQL 🌐  
+**Databases**: PostgreSQL 🐘 | MongoDB 🍃 | SQL Server 💾
+
+---
+
+## 🛠️ Tools & Cloud:
+**DevOps**: Git 🧑‍🚀 | Docker 🐳 | Kubernetes ☸️ | Bazel 🏗️ | Turborepo ⚙️ | Kafka 📨 | Neovim (nvim) 🔮  
+**Cloud**: AWS ☁️ | IBM Cloud 🛠️ | Google Cloud 🚀  
+**Hosting**: Vercel ⛅ | Cloudflare 🌐  
+**Payments**: Stripe 💳 | NMI 💵 | Nexio 💼
+
+---
+
+## 📚 Latest Blog Posts:
+- 🚀 [SQL Server & MongoDB Sync with Kafka, Kubernetes & Debezium](https://dev.to/gustavo_gordillo_aec0b580/sql-server-mongodb-sync-kafka-kubernetes-debezium-1alc)
+- 💻 [Connecting MongoDB with Tableau: A Step-by-Step Guide (MacBook Client)](https://dev.to/gustavo_gordillo_aec0b580/connecting-mongodb-with-tableau-a-step-by-step-guide-macbook-client-5heb)
+- 🛠️ [Setup a Go + Bazel Monorepo Using Bzlmod](https://dev.to/gustavo_gordillo_aec0b580/setup-a-go-bazel-monorepo-using-bzlmod-1df8)
+
+---
+
+✨ Let’s connect and collaborate on exciting projects!
